@@ -9,6 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 Screens
 ![image](https://user-images.githubusercontent.com/55830727/171615616-5ef483af-ba54-4dbb-a1c0-dd852e37a635.png)
+
+Charecter Details(comics)
 ![image](https://user-images.githubusercontent.com/55830727/171615861-1a425c19-995f-4cbe-b64b-aeaf36359e02.png)
 
 
