@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
-Screens
+Characters screen
 ![image](https://user-images.githubusercontent.com/55830727/171615616-5ef483af-ba54-4dbb-a1c0-dd852e37a635.png)
 
 Charecter Details(comics)
